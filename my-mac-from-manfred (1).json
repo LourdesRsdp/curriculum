@@ -1,0 +1,394 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Lourdes",
+      "surnames": "Rodríguez Sánchez del Pozo",
+      "title": "FrontEnd Developer",
+      "description": "Con más de una década de experiencia profesional, mi compromiso se centra en la creatividad y el impacto social, desempeñándome actualmente como voluntaria en Comedor Santo Domingo. Mi campo de expertise abarca desde la producción audiovisual hasta el desarrollo front end, integrando habilidades técnicas con un fuerte sentido de la responsabilidad social. Valoro la colaboración y la innovación, y estoy comprometida con la misión de mi organización actual, aportando perspectivas diversas y experiencias enriquecedoras a nuestro equipo.\n\nEn mi reciente rol como voluntaria, he aplicado mis conocimientos de fotografía y videografía para documentar el impacto de la organización, mientras que mi experiencia anterior como videógrafa durante 6.5 años me ha dotado de una base sólida en narrativa visual y edición. Actualmente, estoy expandiendo mis competencias en desarrollo web con un Máster Front End, donde estoy especializándome en tecnologías como Angular, lo cual fortalece mi perfil multidisciplinario y mi capacidad para contribuir de manera significativa en el ámbito digital.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": []
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sofar Sounds Málaga"
+        },
+        "roles": [
+          {
+            "name": "Coordinadora de Producción Audiovisual y Eventos",
+            "startDate": "2019-10-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Profesional multifacético encargado de gestionar y ejecutar todas las fases de la producción audiovisual, desde la pre-producción hasta la edición final, así como la organización y gestión de eventos. Coordinación de equipos, manejo de equipo de grabación, y edición de video para crear contenido visual de alta calidad y asegurar el éxito de eventos locales e internacionales.\n\nResponsabilidades Clave:\n\nProducción Audiovisual:\n\nPlanificación y ejecución de la producción audiovisual desde la pre-producción hasta la post-producción.\nSupervisión y coordinación de equipos técnicos durante la grabación.\nGestión de la producción en el sitio, incluyendo la configuración de cámaras, iluminación, y sonido.\nOperación de Cámara:\n\nManejo de cámaras para capturar contenido visual en eventos y producciones.\nAsegurar la calidad y consistencia de las imágenes, adaptándose a diferentes entornos y condiciones.\nEdición de Vídeo:\n\nEdición de material bruto para crear contenido cohesivo y atractivo.\nAplicación de efectos, ajuste de color, y mezcla de audio para producir videos finales de alta calidad.\nOrganización de Eventos:\n\nCoordinación y planificación de eventos, asegurando la logística y la gestión eficiente del tiempo.\nColaboración con equipos internos y externos para garantizar la ejecución exitosa de eventos.\nSupervisión de la instalación de equipos audiovisuales en los eventos y manejo de contingencias técnicas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Leroy Merlin"
+        },
+        "roles": [
+          {
+            "name": "Asesora de Ventas",
+            "startDate": "2019-03-01",
+            "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Vendedora orientada al cliente con experiencia en ventas, asesoramiento y gestión de productos en Leroy Merlin. Encargada de proporcionar una experiencia de compra excepcional, asesorar a los clientes sobre productos y soluciones, y contribuir al logro de los objetivos de ventas y satisfacción del cliente.\n\nAtención al Cliente:\n\nRecepción y asistencia personalizada a los clientes en tienda, comprendiendo sus necesidades y expectativas.\nAsesoramiento en la elección de productos, proporcionando información detallada sobre características, usos y beneficios.\nResolución de consultas y quejas de los clientes de manera eficaz y con una actitud orientada al servicio.\n\nVentas:\n\nPromoción y venta de productos, maximizando las oportunidades de venta a través de técnicas efectivas de ventas y demostraciones de productos.\nCumplimiento de objetivos de ventas mensuales y contribución al rendimiento del equipo.\nIdentificación de oportunidades de ventas adicionales y recomendación de productos complementarios.\n\nGestión de Producto:\n\nOrganización y mantenimiento del área de ventas, asegurando la correcta disposición y presentación de los productos.\nControl de inventario, reposición de mercancías y gestión de stock para garantizar la disponibilidad de productos.\nColaboración en la implementación de promociones y campañas de marketing en la tienda.\nConocimiento del Producto:\n\nActualización continua sobre las características, aplicaciones y tendencias de los productos en las áreas de bricolaje, decoración, construcción, jardinería, etc.\nParticipación en formaciones internas para mejorar el conocimiento del producto y habilidades de venta."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DocumentaFilms"
+        },
+        "roles": [
+          {
+            "name": "Producción",
+            "startDate": "2018-09-01",
+            "finishDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "Colaboraciones en Proyectos Internacionales (2017 - Presente)\nA lo largo de más de seis años, he desempeñado roles clave en diversas etapas de la producción audiovisual, abarcando pre-producción, producción, operación de cámara y edición de vídeo. He participado en eventos internacionales y proyectos de gran envergadura, destacándome en la creación de contenido visual de alta calidad. Mis contribuciones notables incluyen:\n\n2024 - Gibraltar\nOperadora de Cámara, Producción y Edición de Vídeo\n\nGibraltar Chess Festival: Captura de imágenes y edición de las partidas del festival, con un enfoque en la calidad visual y narrativa.\nBattle of the Sexes: Coordinación de la producción y operación de cámara en un evento de gran relevancia, asegurando una cobertura visual integral.\nGarrison Library: Realización de la producción audiovisual en la histórica biblioteca, destacando la atmósfera del evento.\n2023 - Dubái, Expo Doha\nOperadora de Cámara, Producción y Edición de Vídeo\n\nCampeonato Mundial de Ajedrez para BBC: Desarrollo de contenido audiovisual para la cobertura del mundial, garantizando la precisión y atractivo de la retransmisión.\nExpo 2023: Gestión integral de la producción de video, incluyendo la captura de momentos clave y la edición para presentaciones y medios de comunicación.\n2019 - Gibraltar\nOperadora de Cámara, Producción y Edición de Vídeo\n\nGIB Music Festival: Documentación y edición de actuaciones musicales y eventos, con especial atención a la sincronización y estética visual.\nMTV: Participación en la producción de contenido para MTV, contribuyendo a la realización de vídeos promocionales y coberturas especiales.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MiOrla"
+        },
+        "roles": [
+          {
+            "name": "Fotógrafa",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Profesional versátil con experiencia en fotografía y edición de imagen, así como en la atención y gestión de relaciones con los clientes. Responsable de capturar, procesar y editar imágenes de alta calidad, a la vez que brinda un excelente servicio al cliente para garantizar su satisfacción y fidelización.\n\nResponsabilidades Clave:\n\nFotografía:\n\nCaptura de imágenes en diversos contextos, incluyendo eventos, productos, retratos, y locaciones.\nUso de técnicas avanzadas de iluminación y composición para crear fotografías de alta calidad.\nRealización de sesiones fotográficas y dirección de modelos o sujetos para obtener los mejores resultados visuales.\nEdición de Imagen:\n\nProcesamiento y edición de imágenes utilizando software especializado (Adobe Photoshop, Lightroom, etc.).\nAplicación de ajustes de color, retoque, y efectos para mejorar la calidad y el impacto visual de las fotografías.\nCreación de álbumes digitales y material visual según las necesidades del cliente.\nAtención al Cliente:\n\nInteracción con clientes para comprender sus necesidades y expectativas en relación a los servicios fotográficos.\nResolución de consultas y problemas, ofreciendo soluciones efectivas y rápidas.\nGestión de la relación con el cliente desde la primera toma de contacto hasta la entrega final del producto, asegurando una experiencia positiva."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FlexBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grid",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Bootcamp JavaScript",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Lemoncode",
+          "description": "Fundamentos de programación y algoritmos tomando como lenguaje vehicular JavaScript y TypeScript, unit testing, separación de responsabilidades, introducción a Git, HTML y CSS.",
+          "URL": "https://lemoncode.net/bootcamp-javascript#bootcamp-javascript/inicio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/02/0c78b753-f081-4514-b2d8-d2bb948701e7_certificate-bootcamp.jpg",
+            "alt": "certificate-BOOTCAMP-JAVASCRIPT_93_Lourdes_Rodríguez_Sánchez_del_Pozo.jpg"
+          }
+        },
+        "finishDate": "2023-03-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Comunicación Audiovisual",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Universidad de Málaga",
+          "description": "Como Graduada en Comunicación Audiovisual, aporto una combinación única de creatividad, habilidades técnicas, y comprensión del diseño visual y la experiencia del usuario. Mi formación me ha dotado de las siguientes competencias clave que añaden un valor significativo a un puesto de Front-End:\n\nDiseño Centrado en el Usuario: Experiencia en crear contenido visual atractivo y accesible, siempre con un enfoque en la audiencia y sus necesidades. Esta habilidad se traduce en la capacidad para diseñar interfaces web que no solo sean funcionales, sino también intuitivas y visualmente atractivas.\n\nNarrativa Visual: Capacidad para contar historias a través de medios visuales, lo que mejora la creación de interfaces que no solo funcionan bien, sino que también comunican eficazmente el mensaje y la marca.\n\nEdición y Postproducción: Dominio de herramientas de edición y producción visual como Adobe Creative Suite, que es esencial para el diseño y prototipado de interfaces, y en la creación de gráficos y contenidos interactivos.\n\nAdaptabilidad y Resolución de Problemas: Experiencia en manejar proyectos complejos y en solucionar problemas creativos bajo presión, habilidades críticas en el desarrollo de proyectos web.\n\nConocimiento Técnico: Comprensión de las bases técnicas del audiovisual que facilita el aprendizaje y aplicación de tecnologías front-end como HTML, CSS y JavaScript, y el uso de frameworks modernos.\n\nColaboración en Equipos Multidisciplinarios: Habilidad para trabajar en estrecha colaboración con desarrolladores, diseñadores y otros profesionales, aportando una perspectiva integral a los proyectos front-end.\n\n"
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe After Effects",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Lightroom",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Premiere Pro",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Máster FrontEnd",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Lemoncode",
+          "description": "Durante mi máster en Front-End, he adquirido una sólida base en HTML5 y CSS3/4, cubriendo desde los conceptos básicos hasta técnicas avanzadas de maquetación responsiva utilizando FlexBox y CSS Grid. También he aprendido a mejorar la mantenibilidad de las hojas de estilo con SASS.\n\nEn el área de JavaScript, mis conocimientos abarcan desde ES5 hasta ES6 y las principales propuestas de ES7, así como TypeScript. He trabajado con herramientas de bundling como Webpack, Parcel, y Vite.\n\nAdemás, he profundizado en varios frameworks y librerías modernas como React, Angular, Vue.js, Svelte, y SolidJS. En cuanto a testing, he adquirido experiencia con jest, técnicas de mocking, React Testing Library, cobertura de código, y he tenido una introducción al E2E testing, incluyendo integración continua.\n\nMis estudios también han abarcado el uso y diseño de APIs REST y GraphQL, así como conceptos fundamentales en Cloud.",
+          "URL": "https://lemoncode.net/master-frontend#master-frontend/inicio"
+        },
+        "finishDate": "2024-06-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [],
+      "contactMails": [
+        "lourdesrsdp@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Valoro mucho trabajar en un equipo de desarrollo pequeño, donde haya pasión por hacer buen software, aprendizaje continuo e interés por probar nuevas herramientas y compartir el conocimiento obtenido. Además, valoraría participar activamente en las fases del ciclo de vida del desarrollo. También considero importante alinearse con los valores del desarrollo ágil y compromiso con el producto a medio y largo plazo."
+  }
+}
